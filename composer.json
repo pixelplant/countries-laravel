@@ -1,5 +1,5 @@
 {
-    "name": "pragmarx/countries-laravel",
+    "name": "pixelplant/countries-laravel",
 
     "description": "Countries for Laravel",
 
@@ -24,6 +24,17 @@
             "name": "Antonio Carlos Ribeiro",
             "email": "acr@antoniocarlosribeiro.com",
             "role": "Creator"
+        }
+    ],
+	
+	"repositories":[
+        {
+            "type": "vcs",
+            "url": "https://github.com/pixelplant/coollection.git"
+        },
+		{
+            "type": "vcs",
+            "url": "https://github.com/pixelplant/countries.git"
         }
     ],
 
